@@ -4,8 +4,8 @@ My comprehensive study notes and implementations while working through foundatio
 
 ## Resources
 
-- **[An Introduction to Statistical Learning](https://www.statlearning.com/)** - Classic ML fundamentals
 - **[Dive into Deep Learning](https://d2l.ai/)** - Interactive deep learning textbook
+- **[An Introduction to Statistical Learning](https://www.statlearning.com/)** - Classic ML fundamentals
 - **[Zero to Mastery: Learn PyTorch for Deep Learning](https://www.learnpytorch.io/)** - Practical PyTorch course
 
 ## Progress
