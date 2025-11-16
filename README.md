@@ -82,7 +82,7 @@ My comprehensive study notes and implementations while working through foundatio
 - [ ] Designing Convolution Network Architectures
 - [ ] Exercises
 
-### Chapter 9: Recurrent Neural Networks
+#### Chapter 9: Recurrent Neural Networks
 - [ ] Working with Sequences
 - [ ] Text Preprocessing
 - [ ] Language Models
