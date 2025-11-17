@@ -30,9 +30,9 @@ My comprehensive study notes and implementations while working through foundatio
 - [x] Synthetic Regression Data
 - [x] Linear Regression Implementation from Scratch
 - [x] Concise Implementation of Linear Regression
-- [ ] Generalization
-- [ ] Weight Decay
-- [ ] Exercises
+- [x] Generalization
+- [x] Weight Decay
+- [x] Exercises
 
 #### Chapter 4: Linear Neural Networks for Classification
 - [ ] Softmax Regression
