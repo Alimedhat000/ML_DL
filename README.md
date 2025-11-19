@@ -35,9 +35,9 @@ My comprehensive study notes and implementations while working through foundatio
 - [x] Exercises
 
 #### Chapter 4: Linear Neural Networks for Classification
-- [ ] Softmax Regression
-- [ ] Image Classification Dataset
-- [ ] Implementation from Scratch
+- [x] Softmax Regression
+- [x] Image Classification Dataset
+- [x] Implementation from Scratch
 - [ ] Concise Implementation
 - [ ] Exercises
 
@@ -254,14 +254,14 @@ My comprehensive study notes and implementations while working through foundatio
 - [x] Projects
 
 #### Section 02: Neural Network Classification
-- [ ] Binary Classification
-- [ ] Multi-class Classification
-- [ ] Classification Metrics
-- [ ] Building Classification Models
-- [ ] Training and Evaluation
-- [ ] Improving Model Performance
-- [ ] Exercises
-- [ ] Projects
+- [x] Binary Classification
+- [x] Multi-class Classification
+- [x] Classification Metrics
+- [x] Building Classification Models
+- [x] Training and Evaluation
+- [x] Improving Model Performance
+- [x] Exercises
+- [x] Projects
 
 #### Section 03: Computer Vision
 - [ ] Introduction to Computer Vision
