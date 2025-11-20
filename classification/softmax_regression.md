@@ -132,3 +132,27 @@ $$\partial_{o_j} l(\mathbf{y}, \hat{\mathbf{y}}) = \frac{\exp(o_j)}{\sum_{k=1}^q
 
 This outcome is fundamental to machine learning optimization. 
 It reveals that the gradient for Softmax Regression is conceptually identical to the gradient found in standard linear regression
+
+While this is mathematically reasoable, it is really risky computationally, because of numerical overflow and underflow in the exponentiation
+
+Recall that softmax computes probabilities via $\hat{y}_j = \frac{exp(o_j)}{\sum_k exp(o_k)}$,
+So for a very large positive $o_k$ then the exponent might be larger than what python datatypes limits.
+And the same goes for very negative numbers.
+
+A way around this problem is to subtract the max $\bar{o} = max({o_k})$ as follows:
+
+$$
+ \hat y_j = \frac{\exp o_j}{\sum_k \exp o_k} =
+   \frac{\exp(o_j - \bar{o}) \exp \bar{o}}{\sum_k \exp (o_k - \bar{o}) \exp \bar{o}} =
+   \frac{\exp(o_j - \bar{o})}{\sum_k \exp (o_k - \bar{o})}.
+$$
+
+By compining softmax and cross-entropy, we escape the numerical stability issues. We have:
+
+$$
+   \log \hat{y}_j =
+   \log \frac{\exp(o_j - \bar{o})}{\sum_k \exp (o_k - \bar{o})} =
+   o_j - \bar{o} - \log \sum_k \exp (o_k - \bar{o}).
+$$
+
+This avoids both overflow and underflow. And now we can pass the logits and compute everything inside the cross-entropy loss function. 
