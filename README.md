@@ -38,20 +38,20 @@ My comprehensive study notes and implementations while working through foundatio
 - [x] Softmax Regression
 - [x] Image Classification Dataset
 - [x] Implementation from Scratch
-- [ ] Concise Implementation
-- [ ] Exercises
+- [x] Concise Implementation
+- [x] Exercises
 
 #### Chapter 5: Multilayer Perceptrons
-- [ ] Multilayer Perceptrons
-- [ ] Implementation from Scratch
-- [ ] Concise Implementation
-- [ ] Model Selection, Underfitting, and Overfitting
-- [ ] Weight Decay
-- [ ] Dropout
-- [ ] Forward Propagation, Backward Propagation, and Computational Graphs
-- [ ] Numerical Stability and Initialization
-- [ ] Environment and Distribution Shift
-- [ ] Exercises
+- [x] Multilayer Perceptrons
+- [x] Implementation from Scratch
+- [x] Concise Implementation
+- [x] Model Selection, Underfitting, and Overfitting
+- [x] Weight Decay
+- [x] Dropout
+- [x] Forward Propagation, Backward Propagation, and Computational Graphs
+- [x] Numerical Stability and Initialization
+- [x] Environment and Distribution Shift
+- [x] Exercises
 
 #### Chapter 6: Builders' Guide
 - [ ] Layers and Blocks
@@ -264,32 +264,32 @@ My comprehensive study notes and implementations while working through foundatio
 - [x] Projects
 
 #### Section 03: Computer Vision
-- [ ] Introduction to Computer Vision
-- [ ] Convolutional Neural Networks
-- [ ] Building CNNs in PyTorch
-- [ ] Training Vision Models
-- [ ] Image Classification Dataset
-- [ ] Model Evaluation
-- [ ] Exercises
-- [ ] Projects
+- [x] Introduction to Computer Vision
+- [x] Convolutional Neural Networks
+- [x] Building CNNs in PyTorch
+- [x] Training Vision Models
+- [x] Image Classification Dataset
+- [x] Model Evaluation
+- [x] Exercises
+- [x] Projects
 
 #### Section 04: Custom Datasets
-- [ ] Understanding PyTorch Datasets
-- [ ] Creating Custom Datasets
-- [ ] DataLoaders
-- [ ] Data Augmentation
-- [ ] Working with Image Data
-- [ ] Exercises
-- [ ] Projects
+- [x] Understanding PyTorch Datasets
+- [x] Creating Custom Datasets
+- [x] DataLoaders
+- [x] Data Augmentation
+- [x] Working with Image Data
+- [x] Exercises
+- [x] Projects
 
 #### Section 05: Going Modular
-- [ ] Why Modular Code?
-- [ ] Creating Python Modules
-- [ ] Model Components
-- [ ] Training Scripts
-- [ ] Utility Functions
-- [ ] Exercises
-- [ ] Projects
+- [x] Why Modular Code?
+- [x] Creating Python Modules
+- [x] Model Components
+- [x] Training Scripts
+- [x] Utility Functions
+- [x] Exercises
+- [x] Projects
 
 #### Section 06: Transfer Learning
 - [ ] What is Transfer Learning?
