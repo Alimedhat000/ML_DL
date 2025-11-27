@@ -1,1 +1,4 @@
 data/
+__pycache__/
+going_modular/
+helper_functions.py
