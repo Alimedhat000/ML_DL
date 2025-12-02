@@ -54,20 +54,20 @@ My comprehensive study notes and implementations while working through foundatio
 - [x] Exercises
 
 #### Chapter 6: Builders' Guide
-- [ ] Layers and Blocks
-- [ ] Parameter Management
-- [ ] Deferred Initialization
-- [ ] Custom Layers
-- [ ] File I/O
-- [ ] GPUs
-- [ ] Exercises
+- [x] Layers and Blocks
+- [x] Parameter Management
+- [x] Deferred Initialization
+- [x] Custom Layers
+- [x] File I/O
+- [x] GPUs
+- [x] Exercises
 
 #### Chapter 7: Convolutional Neural Networks
-- [ ] From Fully Connected Layers to Convolutions
-- [ ] Convolutions for Images
-- [ ] Padding and Stride
-- [ ] Multiple Input and Output Channels
-- [ ] Pooling
+- [x] From Fully Connected Layers to Convolutions
+- [x] Convolutions for Images
+- [x] Padding and Stride
+- [x] Multiple Input and Output Channels
+- [x] Pooling
 - [ ] Convolutional Neural Networks (LeNet)
 - [ ] Exercises
 
