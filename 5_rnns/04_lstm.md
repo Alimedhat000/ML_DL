@@ -145,3 +145,5 @@ It can then "release" this information at a later, relevant time step
 (when $\mathbf{O}_t$ flips to $\approx 1$).
 
 ![](./imgs/lstm-3.svg)
+
+![](./imgs/lstm-4.jpg)
