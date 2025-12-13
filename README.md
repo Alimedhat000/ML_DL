@@ -72,34 +72,34 @@ My comprehensive study notes and implementations while working through foundatio
 - [ ] Exercises
 
 #### Chapter 8: Modern Convolutional Neural Networks
-- [ ] Deep Convolutional Neural Networks (AlexNet)
-- [ ] Networks Using Blocks (VGG)
-- [ ] Network in Network (NiN)
-- [ ] Networks with Parallel Concatenations (GoogLeNet)
-- [ ] Batch Normalization
-- [ ] Residual Networks (ResNet)
-- [ ] Densely Connected Networks (DenseNet)
-- [ ] Designing Convolution Network Architectures
-- [ ] Exercises
+- [x] Deep Convolutional Neural Networks (AlexNet)
+- [x] Networks Using Blocks (VGG)
+- [x] Network in Network (NiN)
+- [x] Networks with Parallel Concatenations (GoogLeNet)
+- [x] Batch Normalization
+- [x] Residual Networks (ResNet)
+- [x] Densely Connected Networks (DenseNet)
+- [x] Designing Convolution Network Architectures
+- [x] Exercises
 
 #### Chapter 9: Recurrent Neural Networks
-- [ ] Working with Sequences
-- [ ] Text Preprocessing
-- [ ] Language Models
-- [ ] Recurrent Neural Networks
-- [ ] Implementation of RNN from Scratch
-- [ ] Concise Implementation of RNN
-- [ ] Backpropagation Through Time
-- [ ] Exercises
+- [x] Working with Sequences
+- [x] Text Preprocessing
+- [x] Language Models
+- [x] Recurrent Neural Networks
+- [x] Implementation of RNN from Scratch
+- [x] Concise Implementation of RNN
+- [x] Backpropagation Through Time
+- [x] Exercises
 
 #### Chapter 10: Modern Recurrent Neural Networks
-- [ ] Long Short-Term Memory (LSTM)
-- [ ] Gated Recurrent Units (GRU)
-- [ ] Deep Recurrent Neural Networks
-- [ ] Bidirectional Recurrent Neural Networks
-- [ ] Machine Translation and Dataset
-- [ ] Encoder-Decoder Architecture
-- [ ] Sequence to Sequence Learning
+- [x] Long Short-Term Memory (LSTM)
+- [x] Gated Recurrent Units (GRU)
+- [x] Deep Recurrent Neural Networks
+- [x] Bidirectional Recurrent Neural Networks
+- [x] Machine Translation and Dataset
+- [x] Encoder-Decoder Architecture
+- [x] Sequence to Sequence Learning
 - [ ] Beam Search
 - [ ] Exercises
 
@@ -292,21 +292,21 @@ My comprehensive study notes and implementations while working through foundatio
 - [x] Projects
 
 #### Section 06: Transfer Learning
-- [ ] What is Transfer Learning?
-- [ ] Using Pre-trained Models
-- [ ] Fine-tuning Strategies
-- [ ] Feature Extraction
-- [ ] Domain Adaptation
-- [ ] Exercises
-- [ ] Projects
+- [x] What is Transfer Learning?
+- [x] Using Pre-trained Models
+- [x] Fine-tuning Strategies
+- [x] Feature Extraction
+- [x] Domain Adaptation
+- [x] Exercises
+- [x] Projects
 
 #### Section 07: Milestone Project 1
-- [ ] Project Planning
-- [ ] Experiment Tracking
-- [ ] Version Control
-- [ ] Model Comparison
-- [ ] Results Analysis
-- [ ] Project Completion
+- [x] Project Planning
+- [x] Experiment Tracking
+- [x] Version Control
+- [x] Model Comparison
+- [x] Results Analysis
+- [x] Project Completion
 
 #### Section 08: Milestone Project 2
 - [ ] Paper Selection
