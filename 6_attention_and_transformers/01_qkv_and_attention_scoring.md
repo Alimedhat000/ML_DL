@@ -1,4 +1,4 @@
-# Queries, Keys, and Values
+# Queries, Keys, Values, and Attention Scoring
 
 So far all the networks we have reviewed relied on the input being of a
 pre-defined constant size.
