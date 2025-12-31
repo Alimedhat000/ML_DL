@@ -132,6 +132,11 @@ but we don't want these tokens to participate in our attention computation.
 
 So we limit our attention sum to only the valid length for each sequence.
 
+This is also used to make sure that next words attention does not influence
+past words
+
+![](./imgs/masked_softmax.png)
+
 #### Batch Matrix Multiplication
 
 Another essential operation is multiplying batches of matrices efficiently.
