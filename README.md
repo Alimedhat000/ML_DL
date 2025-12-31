@@ -100,16 +100,16 @@ My comprehensive study notes and implementations while working through foundatio
 - [x] Machine Translation and Dataset
 - [x] Encoder-Decoder Architecture
 - [x] Sequence to Sequence Learning
-- [ ] Beam Search
-- [ ] Exercises
+- [x] Beam Search
+- [x] Exercises
 
 #### Chapter 11: Attention Mechanisms and Transformers
-- [ ] Attention Cues
-- [ ] Attention Pooling: Nadaraya-Watson Kernel Regression
-- [ ] Attention Scoring Functions
-- [ ] Bahdanau Attention
-- [ ] Multi-Head Attention
-- [ ] Self-Attention and Positional Encoding
+- [x] Attention Cues
+- [x] Attention Pooling: Nadaraya-Watson Kernel Regression
+- [x] Attention Scoring Functions
+- [x] Bahdanau Attention
+- [x] Multi-Head Attention
+- [x] Self-Attention and Positional Encoding
 - [ ] Transformer
 - [ ] Transformers for Vision
 - [ ] Large-Scale Pretraining with Transformers
